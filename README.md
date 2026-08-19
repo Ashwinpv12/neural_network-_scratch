@@ -7,7 +7,7 @@ The network is trained on the classic MNIST dataset to classify images of handwr
 
 Built from Scratch: Pure Python and NumPy implementation.
 Math-Focused: Implements mathematical concepts directly in code, including:
-Matrix dot products
+<br>Matrix dot products
 ReLU (Rectified Linear Unit) activation for the hidden layer
 Softmax activation for the output layer
 One-hot encoding for categorical labels
